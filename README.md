@@ -10,8 +10,8 @@ I enjoy working across the **frontend, backend, databases, and cloud**, turning 
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/YOUR_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/seifmamdouh11?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/seifmamdouh11)
+[![GitHub stars](https://img.shields.io/github/stars/seifmamdouh11?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/seifmamdouh11)
 
 </div>
 
@@ -214,9 +214,9 @@ Business Intelligence
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Seif's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=seifmamdouh11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Seif's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifmamdouh11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -226,7 +226,7 @@ Business Intelligence
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=seifmamdouh11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -236,7 +236,7 @@ Business Intelligence
 
 <div align="center">
 
-[![Seif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night\&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Seif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seifmamdouh11\&theme=tokyo-night\&hide_border=true)](https://github.com/seifmamdouh11)
 
 </div>
 
